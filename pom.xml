@@ -24,7 +24,7 @@ Copyright 2012 Andreas Schildbach
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <android.version>2.1_r3</android.version>
+        <android.version>4.3_r2</android.version>
         <android.support-v4.version>18</android.support-v4.version>
     </properties>
 
@@ -74,7 +74,7 @@ Copyright 2012 Andreas Schildbach
 			    	<extensions>true</extensions>
                <configuration>
                   <sdk>
-                     <platform>17</platform>
+                     <platform>18</platform>
                   </sdk>
                </configuration>
 			    </plugin>
